@@ -1,0 +1,13 @@
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\bin\Debug\Mini_Punto_Venta.exe.config
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\bin\Debug\Mini_Punto_Venta.exe
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\bin\Debug\Mini_Punto_Venta.pdb
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\obj\Debug\Mini_Punto_Venta.csprojAssemblyReference.cache
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\obj\Debug\Mini_Punto_Venta.frmLogin.resources
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\obj\Debug\Mini_Punto_Venta.Properties.Resources.resources
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\obj\Debug\Mini_Punto_Venta.csproj.GenerateResource.cache
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\obj\Debug\Mini_Punto_Venta.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\obj\Debug\Mini_Punto_Venta.exe
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\obj\Debug\Mini_Punto_Venta.pdb
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\obj\Debug\Mini_Punto_Venta.frmRegistroUsuarios.resources
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\obj\Debug\Mini_Punto_Venta.frmPrincipal.resources
+C:\Users\santi\source\repos\Mini_Punto_Venta\Mini_Punto_Venta\obj\Debug\Mini_Punto_Venta.frmTicket.resources
